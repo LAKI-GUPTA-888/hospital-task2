@@ -36,7 +36,7 @@ We also demonstrate how to handle:
 ---
 
 ## Files
-- `task2.sql` – Contains all INSERT, UPDATE, DELETE queries
+- `Hospital_task2.sql` – Contains all INSERT, UPDATE, DELETE queries
 - `README.md` – Describes what each query does and what concepts are demonstrated
 
 ---
